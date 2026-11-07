@@ -1,0 +1,14 @@
+[
+    {
+        "user_id": "DONOR101",
+        "name": "Dhana",
+        "role": "Donor",
+        "contact": "9876543210"
+    },
+    {
+        "user_id": "VOL102",
+        "name": "Arun",
+        "role": "Volunteer",
+        "contact": "9876543211"
+    }
+]
